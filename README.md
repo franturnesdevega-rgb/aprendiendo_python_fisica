@@ -1,4 +1,3 @@
-# aprendiendo_python_fisica
 # Aprendiendo Python desde Física
 
 Este repositorio recoge ejercicios y pequeños proyectos personales mientras aprendo programación aplicada a la física.
